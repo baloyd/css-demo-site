@@ -32,7 +32,8 @@ body {
     padding-top: 15px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;  
+    font-size: 20px; 
+    
 }
 
 /* Ensures nav bar is on the same line as header and the links are spaced accordingly.*/
